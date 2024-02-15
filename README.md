@@ -1,4 +1,4 @@
-![image-removebg-preview (2)](https://github.com/GiacomoTurati/cyber_thread_app/assets/107809403/7d7a8ea5-fe44-4a3d-8c53-81c451387a5e)
+![image-removebg-preview (2)](https://github.com/GiacomoTurati/cyber_thread_app/assets/107809403/49477a59-dd63-4ce8-8c13-808fc2060de4)
 
 # Cyber Thread's AR-t Gallery
 
