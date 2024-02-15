@@ -23,3 +23,11 @@ La nostra applicazione è creata per essere utilizzata su sistemi operativi andr
 1. scaricare il file ```ar_app.apk``` da [MEGA](https://mega.nz/file/ZqMUVYTD#wZtnf1QX4Ti0oRcURt5wj6HLu1Ot3gtiohhRb60blhk)
 2. aprire il file con un emulatore o direttamente con il proprio telefono e seguire i passaggi
 3. aprire l'applicazione, sarà nell'home page, e godersi l'esperienza 
+
+## Problema di Sicurezza dell'App Non Riconosciuta
+
+Sebbene la nostra applicazione sia sicura, potrebbe essere bloccata dal vostro dispositivo. Come possiamo bypassare questo problema?
+
+Di solito, sotto il messaggio di blocco è presente un pulsante per visualizzare ulteriori informazioni. Da lì, potrete selezionare "Scarica comunque". 
+Questo accade perché il sistema potrebbe non riconoscere l'applicazione poiché il suo creatore, Cyber Threat, non è verificato. Tuttavia, l'app non contiene virus, come confermato da un'analisi antivirus.
+[Tramite questo sito](https://www.virustotal.com/gui/home/upload) si può controllare l'assenza di virus.
