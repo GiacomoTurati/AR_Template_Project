@@ -30,4 +30,5 @@ Sebbene la nostra applicazione sia sicura, potrebbe essere bloccata dal vostro d
 
 Di solito, sotto il messaggio di blocco è presente un pulsante per visualizzare ulteriori informazioni. Da lì, potrete selezionare "Scarica comunque". 
 Questo accade perché il sistema potrebbe non riconoscere l'applicazione poiché il suo creatore, Cyber Threat, non è verificato. Tuttavia, l'app non contiene virus, come confermato da un'analisi antivirus.
+
 [Tramite questo sito](https://www.virustotal.com/gui/home/upload) si può controllare l'assenza di virus.
