@@ -24341,6 +24341,13 @@ struct ARTrackable_t1D98417758C08E98A333CDEC0C2C1688CE10B2E0  : public MonoBehav
 {
 };
 
+// Button
+struct Button_t08E85812946542C2FD1F37BA7C97825101832DC8  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
+{
+	// System.String Button::SceneName
+	String_t* ___SceneName_4;
+};
+
 // UnityEngine.Rendering.CameraSwitcher
 struct CameraSwitcher_t51154680A1498BC397CB176097F7AB3D4DF95085  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
 {
@@ -30647,3 +30654,6 @@ IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable5001[6] =
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable5010[4] = 
 {
 	static_cast<int32_t>(sizeof(RuntimeObject)),0,0,0,};
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable5018[1] = 
+{
+	static_cast<int32_t>(offsetof(Button_t08E85812946542C2FD1F37BA7C97825101832DC8, ___SceneName_4)),};

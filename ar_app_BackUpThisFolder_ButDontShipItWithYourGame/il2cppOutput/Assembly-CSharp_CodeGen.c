@@ -12,13 +12,13 @@
 
 
 
-// 0x00000001 System.Void Button::NextScene()
-extern void Button_NextScene_mE4487505A8EAF8584BBB1529045434F169A60002 (void);
+// 0x00000001 System.Void Button::LoadScene()
+extern void Button_LoadScene_mCD11895101F32BFC90F9AEE34E1FA2CB45777E33 (void);
 // 0x00000002 System.Void Button::.ctor()
 extern void Button__ctor_m6CC103D3CBE7ABCDC685DCC02F320D62DCC05D16 (void);
 static Il2CppMethodPointer s_methodPointers[2] = 
 {
-	Button_NextScene_mE4487505A8EAF8584BBB1529045434F169A60002,
+	Button_LoadScene_mCD11895101F32BFC90F9AEE34E1FA2CB45777E33,
 	Button__ctor_m6CC103D3CBE7ABCDC685DCC02F320D62DCC05D16,
 };
 static const int32_t s_InvokerIndices[2] = 

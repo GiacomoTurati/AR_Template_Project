@@ -1,10 +1,11 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
- 
+
 public class Button : MonoBehaviour
 {
-    public void NextScene()
+    public string SceneName = "";
+    public void LoadScene()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene(SceneName);
     }
 }
