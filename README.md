@@ -20,7 +20,7 @@ Il progetto Cyber Thread's AR Art Gallery è una soluzione innovativa che sfrutt
 
 La nostra applicazione è creata per essere utilizzata su sistemi operativi android, per scaricarla:
 
-1. scaricare il file ```ar_app.apk``` da [MEGA](https://mega.nz/file/EqVgRYQJ#4qmvgoNQITsDkeCFBap3l6k-g8Hyy2HuFtsxAeuX5cM)
+1. scaricare il file ```ar_app.apk``` da [MEGA]([https://mega.nz/file/EqVgRYQJ#4qmvgoNQITsDkeCFBap3l6k-g8Hyy2HuFtsxAeuX5cM](https://mega.nz/file/tfFTWAKS#IjxnywEgWV6UzBxwl7lymdMM2IdPxalX_XQ2bEU0ptw))
 2. aprire il file con un emulatore o direttamente con il proprio telefono e seguire i passaggi
 3. aprire l'applicazione, sarà nell'home page, e godersi l'esperienza 
 
